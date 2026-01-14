@@ -1,0 +1,17 @@
+h1{
+ background-color: chocolate; color: blue;
+}
+h1{
+    font-size: 3rem
+}
+#first,#second{
+    font-size: 50px;
+}
+li{
+    border: 0cap;
+    border-style: solid;
+    font-family: "Courier New", Courier, monospace;
+    font-optical-sizing: auto;
+    font-weight:400;;
+    font-style: normal;
+}

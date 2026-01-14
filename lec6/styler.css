@@ -1,0 +1,25 @@
+/* defalut use yhi hoga */
+.container{
+    height: 400px;
+    width: 400px;
+    font-size: 30px;
+    background-color: rgb(170, 16, 16);
+}
+
+/* @media screen and (max-width: 600px){
+    .container{
+        background-color: rgb(16, 16, 170);
+        height: 300px;
+        width: 300px;
+        font-size: 20px;
+    }
+} */
+
+@media screen and (min-width: 800px){
+    .container{
+        background-color: rgb(16, 170, 16);
+        height: 350px;
+        width: 350px;
+        font-size: 25px;
+    }
+}
